@@ -1,7 +1,7 @@
 [build]
   publish = "_site"
   command = "eleventy"
-  NODE_VERSION = "18"
+  NODE_VERSION = "22"
 
 # REDIRECT and HEADERS examples
 
