@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+section: episode
+---
+
+<article>
+  <h1>{{ title }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ page.date | machineDate }}">{{ page.date | readableDate }}</time>
+    </small>
+  </p>
+
+  {{ layoutContent | safe }}
+
+</article>
+
+<nav>
+  <a href="{{ '/episode/' | url }}">← 播客列表</a>
+</nav>
