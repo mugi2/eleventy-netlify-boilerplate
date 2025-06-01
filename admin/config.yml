@@ -35,7 +35,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "标题", name: "title", widget: "string" }
-      - { label: "发布日期", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "发布日期", name: "date", widget: "date", format: "YYYY-MM-DD" }
       - { label: "文件名", name: "slug", widget: "string" }
       - { label: "摘要", name: "summary", widget: "text" }
       - { label: "音频链接", name: "audio_url", widget: "string" }
