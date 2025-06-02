@@ -12,21 +12,6 @@ summary: 分享了五条人在东京演出的经历，包括未能采访到乐�
 ▼ 演出海报
 ![](https://image.xyzcdn.net/FjiAYOW3carZ8GldhRy8WOlLEd3e.jpg)
 
-▼ 克利伯帆船赛
-![](https://image.xyzcdn.net/FiZIc1MlY-dPkU1XLf03g_gcALss.jpg)
-![](https://image.xyzcdn.net/FgyO4ZkW2OfideqXy1whkPk7dpyG.jpg)
-
-▼ 比赛途中
-![](https://image.xyzcdn.net/FkD-8K4ecPS5rHVVCMlCwMiPOvFR.jpg)
-![](https://image.xyzcdn.net/FoEuhB-3XHVu0ClLZc5046g0l4Xh.jpg)
-![](https://image.xyzcdn.net/FlG6eO4Yo4su-BOuXzggkdG6Z0I9.jpg)
-![](https://image.xyzcdn.net/FjjRg1hgHWO5g0v7XooKah9prE_Y.jpg)
-![](https://image.xyzcdn.net/FjTqXM47_Ts1fkIOmCP_IKLBCaYF.jpg)
-![](https://image.xyzcdn.net/Fv3Fa3D4n7h5Qjhw6Os2vUOjaQ4z.jpg)
-![](https://image.xyzcdn.net/Ft46KMcK6umWTWKagqsXnm13tooR.jpg)
-![](https://image.xyzcdn.net/FsUQ7MjomFe8kW0oWge6kUSC_b58.jpg)
-![](https://image.xyzcdn.net/FsVrYMOBkWNV1u8Yt_66HNzQAwV-.jpg)
-
 ▼ 买到的冰箱贴（就在这张快门按下之后的几秒钟，抓小三活动开始了）
 ![](https://image.xyzcdn.net/Fn3EyMQ_m_XLP-zrPBrKaBnhtGge.jpg)
 
