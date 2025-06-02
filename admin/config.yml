@@ -24,7 +24,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "slug", name: "slug", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
       - { label: "Audio Url", name: "audio_url", widget: "string" }
       #- { label: "Author", name: "author", widget: "string", default: "Anonymous" }
       - { label: "Summary", name: "summary", widget: "text" }
