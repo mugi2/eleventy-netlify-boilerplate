@@ -2,7 +2,7 @@
 title: 036 Ariel：在东京的表达艺术治疗师——被日本文化击中，也在耳聋中重新找回自己
 date: 2025-05-19T10:00:00.000Z
 episode: "036"
-slug: ariel-art-therapist-tokyo-deafness-experience
+slug: 036-ariel-art-therapist-tokyo-deafness-experience
 audio_url: https://dts-api.xiaoyuzhoufm.com/track/65647e160500be931c1c0571/682abf35fcbc2e206b9d7c33/media.xyzcdn.net/65647e160500be931c1c0571/lqtfQ90kCE392Fivb0d0bZXzSdqb.m4a
 summary: 访谈了在东京工作的表达艺术治疗师Ariel，聊她在日本的生活工作经历，以及如何在突发性耳聋的经历中重新认识自己。
 ---
