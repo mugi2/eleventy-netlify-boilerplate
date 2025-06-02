@@ -1,5 +1,5 @@
 ---
-title: 了了：盘了周奇墨、再请蒋奇明——日语系女生如何在东京做成1500人大型演出
+title: 037 了了：盘了周奇墨、再请蒋奇明——日语系女生如何在东京做成1500人大型演出
 date: 2025-05-31T10:30:00.000Z
 episode: "037"
 slug: 037-liaoliao-zhou-qimo-jiang-qiming-japan-tokyo-show
