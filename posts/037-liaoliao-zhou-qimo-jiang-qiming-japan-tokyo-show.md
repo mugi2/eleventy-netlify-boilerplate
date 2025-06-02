@@ -1,6 +1,7 @@
 ---
-title: 037 了了：盘了周奇墨、再请蒋奇明——日语系女生如何在东京做成1500人大型演出
+title: 了了：盘了周奇墨、再请蒋奇明——日语系女生如何在东京做成1500人大型演出
 date: 2025-05-31T10:30:00.000Z
+episode: "037"
 slug: 037-liaoliao-zhou-qimo-jiang-qiming-japan-tokyo-show
 audio_url: https://dts-api.xiaoyuzhoufm.com/track/65647e160500be931c1c0571/6838703831215eb50668631e/media.xyzcdn.net/65647e160500be931c1c0571/lov1hfOxNtXiYTzLVoZddEIQ7SrA.m4a
 summary: 从日语系学生到在艺人事务所打工，到策划周奇墨等人在东京的脱口秀演出，以及即将举办的蒋奇明话剧演出。
