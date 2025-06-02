@@ -23,7 +23,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Episode", name: "episode", widget: "string" }
       - { label: "slug", name: "slug", widget: "string" }
       - { label: "Audio Url", name: "audio_url", widget: "string" }
       - { label: "Summary", name: "summary", widget: "text" }
